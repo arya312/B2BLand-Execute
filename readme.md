@@ -1,4 +1,5 @@
 # Your Own Metaverse
+We are designing a metaverse real estate experience.
 ## Requirements
 - Basic Javascript, HTML and CSS.
 - Basic understanding of NFTs.
